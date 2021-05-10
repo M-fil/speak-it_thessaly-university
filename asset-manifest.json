@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/speak-it_thessaly-university/static/css/main.d4540fe9.chunk.css",
+    "main.js": "/speak-it_thessaly-university/static/js/main.760ca5cc.chunk.js",
+    "main.js.map": "/speak-it_thessaly-university/static/js/main.760ca5cc.chunk.js.map",
+    "runtime-main.js": "/speak-it_thessaly-university/static/js/runtime-main.8f94c211.js",
+    "runtime-main.js.map": "/speak-it_thessaly-university/static/js/runtime-main.8f94c211.js.map",
+    "static/css/2.54787924.chunk.css": "/speak-it_thessaly-university/static/css/2.54787924.chunk.css",
+    "static/js/2.05d719a8.chunk.js": "/speak-it_thessaly-university/static/js/2.05d719a8.chunk.js",
+    "static/js/2.05d719a8.chunk.js.map": "/speak-it_thessaly-university/static/js/2.05d719a8.chunk.js.map",
+    "index.html": "/speak-it_thessaly-university/index.html",
+    "static/css/2.54787924.chunk.css.map": "/speak-it_thessaly-university/static/css/2.54787924.chunk.css.map",
+    "static/css/main.d4540fe9.chunk.css.map": "/speak-it_thessaly-university/static/css/main.d4540fe9.chunk.css.map",
+    "static/js/2.05d719a8.chunk.js.LICENSE.txt": "/speak-it_thessaly-university/static/js/2.05d719a8.chunk.js.LICENSE.txt",
+    "static/media/initial-image.da427773.png": "/speak-it_thessaly-university/static/media/initial-image.da427773.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f94c211.js",
+    "static/css/2.54787924.chunk.css",
+    "static/js/2.05d719a8.chunk.js",
+    "static/css/main.d4540fe9.chunk.css",
+    "static/js/main.760ca5cc.chunk.js"
+  ]
+}
