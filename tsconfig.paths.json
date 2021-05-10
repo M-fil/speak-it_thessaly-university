@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@modules/*": ["src/modules/*"],
+      "@store/*": ["src/core/store/*"],
+      "@type/*": ["src/core/type/*"],
+      "@firebaseConfig/*": ["src/core/firebase/*"],
+      "@routes/*": ["src/core/routes/*"],
+      "@core/*": ["src/core/*"],
+      "@i18n/*": ["src/core/i18n/*"],
+      "@constants/*": ["src/core/constants/*"],
+      "@assets": ["src/assets/*"]
+    }
+  }
+}

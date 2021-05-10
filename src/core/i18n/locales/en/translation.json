@@ -1,0 +1,119 @@
+{
+  "signIn": {
+    "title": "Google Speech",
+    "mainText1": "Welcome to Google Speech.",
+    "mainText2": "Please login to your account",
+    "buttonLogin": "Login",
+    "buttonForgetPassword": "Forgot Password?",
+    "buttonSignUp": "Sign up",
+    "textBeforeGoogle": "Or Login Using",
+    "textGoogle": "Google",
+    "input": {
+      "email": {
+        "type": "email",
+        "id": "userEmail",
+        "name": "userEmail",
+        "placeholder": "Your email"
+      },
+      "password": {
+        "type": "password",
+        "id": "userPassword",
+        "name": "userPassword",
+        "placeholder": "Your password"
+      }
+    }
+  },
+  "signUp": {
+    "title": "Sign Up",
+    "buttonSignUp": "Sign up",
+    "textBeforeSignIn": "Already have an account?",
+    "buttonSignIn": "Sign In",
+    "textBeforeGoogle": "Or SignUp Using",
+    "buttonSignInGoogle": "Sign In with Google",
+    "input": {
+      "displayName": {
+        "type": "text",
+        "id": "displayName",
+        "name": "displayName",
+        "placeholder": "E.g: Faruq"
+      },
+      "email": {
+        "type": "email",
+        "id": "userEmail",
+        "name": "userEmail",
+        "placeholder": "E.g: faruq123@gmail.com"
+      },
+      "password": {
+        "type": "password",
+        "id": "userPassword",
+        "name": "userPassword",
+        "placeholder": "Your password"
+      }
+    }
+  },
+  "resetPassword": {
+    "title": "Reset your Password",
+    "buttonResetPassword": "Send me a reset link",
+    "buttonBackSignIn": "back to sign in page",
+    "input": {
+      "type": "email",
+      "id": "userEmail",
+      "name": "userEmail",
+      "placeholder": "Input your email"
+    }
+  },
+  "signOut": {
+    "buttonSignOut": "Sign Out"
+  },
+  "text": {
+    "homeText": "Home"
+  },
+  "toasts": {
+    "signInSuccess": "Good!",
+    "signUpSuccess": "Create account",
+    "resetPasswordSuccess": "Please check your email!"
+  },
+  "Score": {
+    "mainTetx": "Scope",
+    "addScore": "Good"
+  },
+  "WordList": {
+    "waitText": "Please, waiting"
+  },
+  "GroupsWord": {
+    "Group0": "Words 0",
+    "Group1": "Words 1",
+    "Group2": "Words 2",
+    "Group3": "Words 3",
+    "Group4": "Words 4",
+    "Group5": "Words 5"
+  },
+  "SpeechRecording": {
+    "buttonSpeak": "Speak please",
+    "buttonReset": "Reset",
+    "buttonStop": "Stop speak",
+    "notBrowserSupportSpeechRecording": "Ups, your browser is not supported!"
+  },
+  "Statistics": {
+    "unpredWords": "Количество неправильных ответов ",
+    "guessedWords": "Количество правильный ответов "
+  },
+  "StartPage": {
+    "HeaderText": "Speakit",
+    "MainText": "Click on the words to hear them sound. Click on the button and speak the words into the microphone.",
+    "buttonStart": "Start"
+  },
+  "LongStatistics": {
+    "position": "№",
+    "email": "email",
+    "displayName": "displayName",
+    "score": "score",
+    "date": "date",
+    "buttonReturn": "Return",
+    "sortByScore": "Sort by score"
+  },
+  "ShortStatistics": {
+    "buttonReturn": "Return",
+    "buttonStatistics": "Statistics"
+  }
+}
