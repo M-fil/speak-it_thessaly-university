@@ -1,7 +1,7 @@
 import React, { useCallback, useEffect, useState, MouseEvent } from 'react';
 import { RootStateOrAny, useSelector } from 'react-redux';
 import { SoundOutlined } from '@ant-design/icons';
-import { wordsURL } from '@modules/HomePage/WordsList/constants';
+import { wordsURL } from '../../../../modules/HomePage/WordsList/constants';
 import { useHistory } from 'react-router';
 import Style from './StyledShortTermStatistics';
 import { useTranslation } from 'react-i18next';

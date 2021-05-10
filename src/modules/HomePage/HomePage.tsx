@@ -1,5 +1,5 @@
 import React from 'react';
-import ShortTermStatistics from '@modules/HomePage/StatisticsPage/ShortTermStatistics/ShortTermStatistics';
+import ShortTermStatistics from '../HomePage/StatisticsPage/ShortTermStatistics/ShortTermStatistics';
 import { Redirect, Route, Switch } from 'react-router';
 import MainPage from './MainPage/MainPage';
 import LongTermStatistics from './StatisticsPage/LongTermStatistics/LongTermStatistics';
