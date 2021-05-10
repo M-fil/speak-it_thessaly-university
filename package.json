@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://github.com/M-fil/speak-it_thessaly-university",
-  "engines": {
-    "node": "12.x"
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
@@ -67,6 +64,7 @@
     ]
   },
   "devDependencies": {
+    "@types/babel__core": "^7.1.14",
     "@types/styled-components": "^5.1.9",
     "gh-pages": "^3.1.0",
     "react-app-rewire-alias": "^1.0.3",
